@@ -181,19 +181,19 @@ Casualties are analyzed across different vehicle categories such as:
 
 ### Power Query Transformation
 
-![Power Query](screenshots/power-query.png)
+[![Power Query](Power%20Query.png)](Power%20Query.png)
 
-### Data Model
+### Data Modeling
 
-![Data Model](screenshots/data-model.png)
+[![Data Modeling](Data%20Modeling.png)](Data%20Modeling.png)
 
 ### Calendar Table
 
-![Calendar Table](screenshots/calendar-table.png)
+[![Calendar Table](Calendar%20Table.png)](Calendar%20Table.png)
 
 ### Final Dashboard
 
-![Dashboard](screenshots/Final-dashboard.png)
+[![Final Dashboard](Final%20DashBoard.png)](Final%20DashBoard.png)
 
 ---
 
