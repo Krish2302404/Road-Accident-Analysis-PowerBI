@@ -47,9 +47,13 @@ The project follows a complete data analytics workflow, starting from raw data p
 
 ## 🗂️ Dataset
 
-The dataset used in this project was obtained from **Kaggle**.
+## 🗂️ Dataset
 
-The dataset contains information related to road accidents, including:
+The dataset used in this project was provided for academic and analytical purposes.
+
+Due to the dataset size, the raw dataset is not included in this repository.
+
+The Power BI `.pbix` file contains the complete data transformation, data modeling, DAX calculations, and interactive dashboard implementation.
 
 - Accident Date
 - Accident Severity
